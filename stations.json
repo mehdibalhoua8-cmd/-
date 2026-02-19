@@ -1,7 +1,7 @@
 [
   {
     "name": "Medi 1",
-    "streamUrl": "",
+    "streamUrl": "https://stream-162.zeno.fm/8wrs2bh0x1zuv?zs=kFT6GICuSauuPPbdg9h5TA",
     "logoUrl": "https://cdn-profiles.tunein.com/s24883/images/logod.jpg",
     "genre": "News"
   },
@@ -161,6 +161,14 @@
     "logoUrl": "https://hittradio.com/uploads/webradio/100__URBAN.jpg",
     "genre": "Music"
   },
+   {
+    "name": "Atfal Radio",
+    "streamUrl": " https://stream-162.zeno.fm/8wrs2bh0x1zuv?zs=kFT6GICuSauuPPbdg9h5TA",
+    "logoUrl": "https://adwaafm.com/wp-content/uploads/2025/02/banneradwa.jpg",
+    "genre": "Music"
+  },
+  
+
   {
     "name": "Radio Sawt Alamal",
     "streamUrl": "https://stream.zeno.fm/d4u7zbqh5qruv",
