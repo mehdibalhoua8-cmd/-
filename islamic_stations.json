@@ -360,21 +360,15 @@
     "genre": "Religious"
   },
   {
-    "name": "  يحيى حوا",
-    "streamUrl": "https://backup.qurango.net/radio/yahya_hawwa",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
-    "genre": "Religious"
-  },
-  {
     "name": "  يوسف الشويعي",
     "streamUrl": "https://backup.qurango.net/radio/yousef_alshoaey",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
     "genre": "Religious"
   },
   {
-    "name": "  ماهر المعيقلي",
+    "name": " ماهر المعيقلي",
     "streamUrl": "https://backup.qurango.net/radio/maher",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Quran.svg/1920px-Quran.svg.png",
+    "logoUrl": "https://ghrannews.com/wp-content/uploads/2024/05/%D9%85%D8%A7%D9%87%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D9%82%D9%84%D9%8A.jpeg",
     "genre": "Religious"
   },
   {
@@ -1050,5 +1044,6 @@
     "genre": "Religious"
   }
 ]
+
 
 
