@@ -1,5 +1,11 @@
 [
   {
+    "name": "IDAAT MOHAMED ASSADISS DU SAIN CORAN ",
+    "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/radio_mohammed_6/hls_snrt_radio/index.m3u8",
+    "logoUrl": "https://maroc.mom-gmr.org/uploads/tx_lfrogmom/media/idaatmohammedassadiss_01.png",
+    "genre": "Religious"
+  },
+  {
     "name": "Chada FM",
     "streamUrl": "https://chadatv.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
     "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/301/chada-fm-shd-fm.88b31124.png",
