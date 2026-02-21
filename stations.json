@@ -309,12 +309,6 @@
   },
 
   {
-    "name": "RadioJar Stream",
-    "streamUrl": "https://stream.radiojar.com/shcthrfbsxquv",
-    "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/EXLkMstFAL.png",
-    "genre": "General"
-  },
-  {
     "name": "RFI Monde",
     "streamUrl": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
     "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/420/rfi-monde.5f56b1a1.png",
