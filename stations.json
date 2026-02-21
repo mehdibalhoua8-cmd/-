@@ -535,6 +535,44 @@
     "logoUrl": "https://alshamsnews.com/wp-content/uploads/2025/12/Spacetoon-Logo.png",
     "genre": "Music"
   },
+  [
+  {
+    "name": "Nayda Urban Music",
+    "streamUrl": "https://radio.yabiladi.com:9102/;stream.mp3",
+    "logoUrl": "",
+    "genre": "Music"
+  },
+  {
+    "name": "Medina Andalou",
+    "streamUrl": "https://medinaandalou.ice.infomaniak.ch/medinaandalou-128.mp3",
+    "logoUrl": "",
+    "genre": "Music"
+  },
+  {
+    "name": "Medina Amazigh",
+    "streamUrl": "https://medinaamazigh.ice.infomaniak.ch/medinaamazigh-128.mp3",
+    "logoUrl": "",
+    "genre": "Music"
+  },
+  {
+    "name": "Medina Nachat",
+    "streamUrl": "https://medinanachat.ice.infomaniak.ch/medinanachat-128.mp3",
+    "logoUrl": "",
+    "genre": "Music"
+  },
+  {
+    "name": "Medina Coran",
+    "streamUrl": "https://medinacoran.ice.infomaniak.ch/medinacoran-128.mp3",
+    "logoUrl": "",
+    "genre": "Religious"
+  },
+  {
+    "name": "Medina Nostalgie",
+    "streamUrl": "https://medinanostalgie.ice.infomaniak.ch/medinanostalgie-128.mp3",
+    "logoUrl": "",
+    "genre": "Oldies"
+  },
+
   {
     "name": "Hit Radio Way Way",
     "streamUrl": "https://wayway.ice.infomaniak.ch/wayway-128.mp3",
