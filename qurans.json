@@ -535,6 +535,9 @@
             114
           ],
           "audioUrlTemplate": "https://server12.mp3quran.net/maher/Almusshaf-Al-Mojawwad/{surah:03}.mp3"
+           }
+      ],
+      "logoUrl": "https://i.pinimg.com/564x/26/5d/3b/265d3b30f8d48c7acfc92d27d31c72ee.jpg"
         },
         {
           "id": 103,
@@ -31715,6 +31718,7 @@
     }
   ]
 }
+
 
 
 
