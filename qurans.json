@@ -136,7 +136,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/akdr/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://i1.sndcdn.com/artworks-000103683025-3jm4r1-t500x500.jpg"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1.jpg"
     },
     {
       "id": 10,
@@ -270,7 +270,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/akrm/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://ar.assabile.com/media/person/200x256/akram-al-aalakmi.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A3%D9%83%D8%B1%D9%85%20%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D9%85%D9%8A.jpg"
     },
     {
       "id": 100,
@@ -403,7 +403,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/majd_onazi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://i1.sndcdn.com/artworks-000228408415-047e5f-t500x500.jpg"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 102,
@@ -537,7 +537,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/maher/Almusshaf-Al-Mojawwad/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://i.pinimg.com/564x/26/5d/3b/265d3b30f8d48c7acfc92d27d31c72ee.jpg"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%A7%D9%87%D8%B1%20%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D9%82%D9%84%D9%8A.jpg"
     },
     {
       "id": 103,
@@ -927,7 +927,7 @@
           "audioUrlTemplate": "https://server13.mp3quran.net/braak/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/105.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D9%83.jpg"
     },
     {
       "id": 106,
@@ -1320,7 +1320,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/lhdan/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/107.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%84%D8%AD%D9%8A%D8%AF%D8%A7%D9%86.jpg"
     },
     {
       "id": 108,
@@ -1454,7 +1454,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/mhsny/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/108.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B3%D9%86%D9%8A.jpg"
     },
     {
       "id": 109,
@@ -1713,7 +1713,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/ayyub/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/109.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A3%D9%8A%D9%88%D8%A8.jpg"
     },
     {
       "id": 11,
@@ -1790,7 +1790,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/3zazi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/11.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%86%D9%8A%20%D8%A7%D9%84%D8%B9%D8%B2%D8%A7%D8%B2%D9%8A.jpg"
     },
     {
       "id": 110,
@@ -2058,7 +2058,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/jbrl/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/111.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%AC%D8%A8%D8%B1%D9%8A%D9%84.jpg"
     },
     {
       "id": 112,
@@ -2442,7 +2442,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/minsh/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/112.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B5%D8%AF%D9%8A%D9%82%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A%202.jpg"
     },
     {
       "id": 115,
@@ -2701,7 +2701,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/m_krm/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/115.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.jpg"
     },
     {
       "id": 116,
@@ -3594,7 +3594,7 @@
           "audioUrlTemplate": "https://server13.mp3quran.net/husr/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/118.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%AE%D9%84%D9%8A%D9%84%20%D8%A7%D9%84%D8%AD%D8%B5%D8%B1%D9%8A.jpg"
     },
     {
       "id": 12,
@@ -3728,7 +3728,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/abkr/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/12.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A5%D8%AF%D8%B1%D9%8A%D8%B3%20%D8%A3%D8%A8%D9%83%D8%B1.jpg"
     },
     {
       "id": 121,
@@ -3987,7 +3987,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/bna/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/121.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D8%A8%D9%86%D8%A7.jpg"
     },
     {
       "id": 123,
@@ -4138,7 +4138,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/afs/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/123.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%20%D8%A7%D9%84%D8%B9%D9%81%D8%A7%D8%B3%D9%8A.jpg"
     },
     {
       "id": 125,
@@ -4397,7 +4397,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/mustafa/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/125.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%B5%D8%B7%D9%81%D9%89%20%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84.jpg"
     },
     {
       "id": 126,
@@ -4531,7 +4531,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/lahoni/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/126.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%B5%D8%B7%D9%81%D9%89%20%D8%A7%D9%84%D9%84%D8%A7%D9%87%D9%88%D9%86%D9%8A.png"
     },
     {
       "id": 127,
@@ -4693,7 +4693,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/muamr/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/128.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%B9%D9%85%D8%B1%20%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%B3%D9%8A.jpg"
     },
     {
       "id": 129,
@@ -5290,7 +5290,7 @@
           "audioUrlTemplate": "https://server14.mp3quran.net/muftah_sultany/Rewayat-Aldori-A-n-Abi-Amr/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/129.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D9%81%D8%AA%D8%A7%D8%AD%20%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D9%86%D9%8A.jpg"
     },
     {
       "id": 13,
@@ -6214,7 +6214,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/zaml/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/139.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%A7%D8%AC%D8%AF%20%D8%A7%D9%84%D8%B2%D8%A7%D9%85%D9%84.jpg"
     },
     {
       "id": 14,
@@ -6482,7 +6482,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/shaksh/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/149.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%A7%D9%87%D8%B1%20%D8%B4%D8%AE%D8%A7%D8%B4%D9%8A%D8%B1%D9%88.jpg"
     },
     {
       "id": 15,
@@ -6615,7 +6615,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/omran/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/15.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%8A%20%D8%B9%D9%85%D8%B1%D8%A7%D9%86.jpg"
     },
     {
       "id": 150,
@@ -6745,7 +6745,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/monshed/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/150.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%AF.jpg"
     },
     {
       "id": 151,
@@ -6879,7 +6879,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/sheimy/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/151.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%A7%D9%84%D8%B4%D9%8A%D9%85%D9%8A.jpg"
     },
     {
       "id": 152,
@@ -7013,7 +7013,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/salamah/Rewayat-Hafs-A-n-Assem/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/152.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%8A%D8%A7%D8%B3%D8%B1%20%D8%B3%D9%84%D8%A7%D9%85%D8%A9.jpg"
     },
     {
       "id": 153,
@@ -7064,7 +7064,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/malaysia/zamri/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/154.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0%20%D8%B2%D8%A7%D9%85%D8%B1%D9%8A.jpg"
     },
     {
       "id": 159,
@@ -7198,7 +7198,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/mohna/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/159.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AE%D8%A7%D9%84%D8%AF%20%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%A7.jpg"
     },
     {
       "id": 16,
@@ -7332,7 +7332,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/koshi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/16.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86%20%D8%A7%D9%84%D9%83%D9%88%D8%B4%D9%8A.jpg"
     },
     {
       "id": 160,
@@ -7466,7 +7466,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/a_klb/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/160.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A7%D8%AF%D9%84%20%D8%A7%D9%84%D9%83%D9%84%D8%A8%D8%A7%D9%86%D9%8A.jpg"
     },
     {
       "id": 161,
@@ -7600,7 +7600,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/bilal/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/161.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D9%88%D8%B3%D9%89%20%D8%A8%D9%84%D8%A7%D9%84.jpg"
     },
     {
       "id": 162,
@@ -7679,7 +7679,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/alshaik/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/162.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AD%D8%B3%D9%8A%D9%86%20%D8%A2%D9%84%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE.jpg"
     },
     {
       "id": 163,
@@ -7813,7 +7813,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/hatem/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/163.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AD%D8%A7%D8%AA%D9%85%20%D9%81%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D9%88%D8%A7%D8%B9%D8%B1.jpg"
     },
     {
       "id": 164,
@@ -7947,7 +7947,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/jormy/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/164.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D8%A7%D9%84%D8%AC%D8%B1%D9%85%D9%8A.jpg"
     },
     {
       "id": 165,
@@ -8081,7 +8081,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/mrifai/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/165.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A.jpg"
     },
     {
       "id": 166,
@@ -8168,7 +8168,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/obaid/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/166.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%86%D8%A7%D8%B5%D8%B1%20%D8%A7%D9%84%D8%B9%D8%A8%D9%8A%D8%AF.jpg"
     },
     {
       "id": 167,
@@ -8197,7 +8197,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/wasel/Rewayat-Hafs-A-n-Assem/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/167.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%88%D8%A7%D8%B5%D9%84%20%D8%A7%D9%84%D9%85%D8%B0%D9%86.jpg"
     },
     {
       "id": 17,
@@ -8331,7 +8331,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/twfeeq/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/17.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AA%D9%88%D9%81%D9%8A%D9%82%20%D8%A7%D9%84%D8%B5%D8%A7%D9%8A%D8%BA.jpg"
     },
     {
       "id": 178,
@@ -8590,7 +8590,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Warsh-A-n-Nafi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/178.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A.jpg"
     },
     {
       "id": 18,
@@ -8858,7 +8858,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/jaman/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/181.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AC%D9%85%D8%B9%D8%A7%D9%86%20%D8%A7%D9%84%D8%B9%D8%B5%D9%8A%D9%85%D9%8A.jpg"
     },
     {
       "id": 183,
@@ -8882,7 +8882,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/malaysia/rziah/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/183.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 184,
@@ -8903,7 +8903,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/malaysia/rogiah/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/184.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 185,
@@ -8927,7 +8927,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/malaysia/mamat/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/185.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 187,
@@ -8984,7 +8984,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/malaysia/abdulgani/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/188.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 189,
@@ -9008,7 +9008,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/malaysia/fhmi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/189.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D9%81%D9%87%D9%85%D9%8A.jpg"
     },
     {
       "id": 19,
@@ -9138,7 +9138,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/malaysia/hafz/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/190.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 191,
@@ -9163,7 +9163,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/malaysia/hfs/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/191.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 192,
@@ -9187,7 +9187,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/malaysia/nor/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/192.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%AE%D9%8A%D8%B1%20%D8%A7%D9%84%D9%86%D9%88%D8%B1.jpg"
     },
     {
       "id": 193,
@@ -9349,7 +9349,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/zilaie/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/194.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AC%D9%85%D8%A7%D9%84%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%A7%D9%84%D8%B2%D9%8A%D9%84%D8%B9%D9%8A.jpg"
     },
     {
       "id": 197,
@@ -9483,7 +9483,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/harthi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/197.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 198,
@@ -9617,7 +9617,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/rashad/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/198.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B1%D8%B4%D8%A7%D8%AF%20%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81.jpg"
     },
     {
       "id": 2,
@@ -9744,7 +9744,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/jbreen/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/2.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D8%A7%D9%84%D8%AC%D8%A8%D8%B1%D9%8A%D9%86.jpg"
     },
     {
       "id": 20,
@@ -9878,7 +9878,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/jleel/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/20.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AE%D8%A7%D9%84%D8%AF%20%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D9%84.jpg"
     },
     {
       "id": 201,
@@ -10137,7 +10137,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/trablsi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/201.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%AE%D8%B6%D8%B1%20%D8%A7%D9%84%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3%D9%8A.jpg"
     },
     {
       "id": 202,
@@ -10271,7 +10271,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/Abdullahk/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/202.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D9%83%D9%86%D8%AF%D8%B1%D9%8A.jpg"
     },
     {
       "id": 203,
@@ -10405,7 +10405,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/Aamer/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/203.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%B9%D8%A7%D9%85%D8%B1.jpg"
     },
     {
       "id": 204,
@@ -10475,7 +10475,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/IbrahemSadan/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/204.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 205,
@@ -10739,7 +10739,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/khan/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/206.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D8%AE%D8%A7%D9%86.jpg"
     },
     {
       "id": 207,
@@ -10785,7 +10785,7 @@
           "audioUrlTemplate": "https://server7.mp3quran.net/dgsh/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/207.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%8A%D9%88%D8%B3%D9%81%20%D8%A7%D9%84%D8%AF%D8%BA%D9%88%D8%B4.jpg"
     },
     {
       "id": 208,
@@ -10941,7 +10941,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/wishear/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/209.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%88%D8%B4%DB%8C%D8%A7%D8%B1%20%D8%AD%DB%8C%D8%AF%D8%B1%20%D8%A7%D8%B1%D8%A8%DB%8C%D9%84%DB%8C.jpg"
     },
     {
       "id": 21,
@@ -11075,7 +11075,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/qht/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/21.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AE%D8%A7%D9%84%D8%AF%20%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A.jpg"
     },
     {
       "id": 211,
@@ -11209,7 +11209,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/fateh/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/211.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%B2%D8%A8%D9%8A%D8%B1.jpg"
     },
     {
       "id": 21136,
@@ -11742,7 +11742,7 @@
           "audioUrlTemplate": "https://server16.mp3quran.net/Y_ALaidroos/Rewayat-Hafs-A-n-Assem/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/21182.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 21183,
@@ -12866,7 +12866,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/Othmn/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/216.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 217,
@@ -13000,7 +13000,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/balilah/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/217.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A8%D9%86%D8%AF%D8%B1%20%D8%A8%D9%84%D9%8A%D9%84%D9%87.jpg"
     },
     {
       "id": 218,
@@ -13093,7 +13093,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/shoraimy/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/218.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 219,
@@ -13227,7 +13227,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/wdee3/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/219.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%88%D8%AF%D9%8A%D8%B9%20%D8%AD%D9%85%D8%A7%D8%AF%D9%8A%20%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A.jpg"
     },
     {
       "id": 22,
@@ -13361,7 +13361,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/kafi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/22.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AE%D8%A7%D9%84%D8%AF%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%83%D8%A7%D9%81%D9%8A.jpg"
     },
     {
       "id": 221,
@@ -13629,7 +13629,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/aloosi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/225.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%A7%D9%84%D8%B9%D9%88%D8%B3%D9%8A.jpg"
     },
     {
       "id": 226,
@@ -13751,7 +13751,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/ghamdi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/226.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AE%D8%A7%D9%84%D8%AF%20%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A.jpg"
     },
     {
       "id": 227,
@@ -13836,7 +13836,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/shakoor/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/227.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B1%D9%85%D8%B6%D8%A7%D9%86%20%D8%B4%D9%83%D9%88%D8%B1.jpg"
     },
     {
       "id": 228,
@@ -13905,7 +13905,7 @@
           "audioUrlTemplate": "https://server7.mp3quran.net/m_arkani/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/228.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A3%D8%B1%D9%83%D8%A7%D9%86%D9%8A.jpg"
     },
     {
       "id": 229,
@@ -14039,7 +14039,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/m_qari/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/229.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%AE%D9%84%D9%8A%D9%84%20%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%A6.jpg"
     },
     {
       "id": 23,
@@ -14084,7 +14084,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/whabi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/23.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 230,
@@ -14218,7 +14218,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/rami/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/230.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 231,
@@ -14321,7 +14321,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/hazza/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/231.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%87%D8%B2%D8%A7%D8%B9%20%D8%A7%D9%84%D8%A8%D9%84%D9%88%D8%B4%D9%8A.jpg"
     },
     {
       "id": 236,
@@ -14455,7 +14455,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/a_majed/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/236.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%A7%D9%84%D9%85%D8%A7%D8%AC%D8%AF.jpg"
     },
     {
       "id": 237,
@@ -14723,7 +14723,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/tnjy/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/24.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AE%D9%84%D9%8A%D9%81%D8%A9%20%D8%A7%D9%84%D8%B7%D9%86%D9%8A%D8%AC%D9%8A.jpg"
     },
     {
       "id": 240,
@@ -14819,7 +14819,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/salman/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/240.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B3%D9%84%D9%85%D8%A7%D9%86%20%D8%A7%D9%84%D8%B9%D8%AA%D9%8A%D8%A8%D9%8A.jpg"
     },
     {
       "id": 241,
@@ -14870,7 +14870,7 @@
           "audioUrlTemplate": "https://server14.mp3quran.net/refat/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/241.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B1%D9%81%D8%B9%D8%AA.jpg"
     },
     {
       "id": 243,
@@ -15187,7 +15187,7 @@
           "audioUrlTemplate": "https://server14.mp3quran.net/khalf/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/244.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%AE%D9%84%D9%81.jpg"
     },
     {
       "id": 245,
@@ -15321,7 +15321,7 @@
           "audioUrlTemplate": "https://server14.mp3quran.net/mansor/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/245.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%85%D9%86%D8%B5%D9%88%D8%B1%20%D8%A7%D9%84%D8%B3%D8%A7%D9%84%D9%85%D9%8A.jpg"
     },
     {
       "id": 246,
@@ -15742,7 +15742,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/hamza/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/25.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AF%D8%A7%D9%88%D8%AF%20%D8%AD%D9%85%D8%B2%D8%A9.jpg"
     },
     {
       "id": 250,
@@ -16144,7 +16144,7 @@
           "audioUrlTemplate": "https://server14.mp3quran.net/swlim/Rewayat-Hafs-A-n-Assem/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/252.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 253,
@@ -16270,7 +16270,7 @@
           "audioUrlTemplate": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/253.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A7%D8%B3%D9%84%D8%A7%D9%85%20%D8%B5%D8%A8%D8%AD%D9%8A.jpg"
     },
     {
       "id": 254,
@@ -16404,7 +16404,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/254.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A8%D8%AF%D8%B1%20%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A.jpeg"
     },
     {
       "id": 255,
@@ -16525,7 +16525,7 @@
           "audioUrlTemplate": "https://server16.mp3quran.net/hitham/Rewayat-Hafs-A-n-Assem/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/255.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%87%D9%8A%D8%AB%D9%85%20%D8%A7%D9%84%D8%AC%D8%B0%D8%B9%D8%A7%D9%86%D9%8A.jpg"
     },
     {
       "id": 256,
@@ -16659,7 +16659,7 @@
           "audioUrlTemplate": "https://server16.mp3quran.net/shaheen/Rewayat-Hafs-A-n-Assem/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/256.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%AE%D9%84%D9%8A%D9%84%20%D8%B4%D8%A7%D9%87%D9%8A%D9%86.jpg"
     },
     {
       "id": 257,
@@ -16927,7 +16927,7 @@
           "audioUrlTemplate": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/259.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%86%D9%81%D9%8A%D8%B3.jpg"
     },
     {
       "id": 26,
@@ -16998,7 +16998,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/ifrad/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/26.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B1%D8%B4%D9%8A%D8%AF%20%D8%A5%D9%81%D8%B1%D8%A7%D8%AF.jpg"
     },
     {
       "id": 260,
@@ -17292,7 +17292,7 @@
           "audioUrlTemplate": "https://server16.mp3quran.net/souilass/Rewayat-Warsh-A-n-Nafi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/264.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%8A%D9%88%D9%86%D8%B3%20%D8%A7%D8%B3%D9%88%D9%8A%D9%84%D8%B5.jpg"
     },
     {
       "id": 265,
@@ -18485,7 +18485,7 @@
           "audioUrlTemplate": "https://server16.mp3quran.net/kamel/Rewayat-Hafs-A-n-Assem/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/267.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D9%83%D8%A7%D9%85%D9%84.jpg"
     },
     {
       "id": 268,
@@ -18769,7 +18769,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/bl3/Rewayat-Warsh-A-n-Nafi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/27.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B1%D8%B4%D9%8A%D8%AF%20%D8%A8%D9%84%D8%B9%D8%A7%D9%84%D9%8A%D8%A9.jpg"
     },
     {
       "id": 271,
@@ -19086,7 +19086,7 @@
           "audioUrlTemplate": "https://server16.mp3quran.net/okasha/Rewayat-AlDorai-A-n-Al-Kisa-ai/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/272.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D9%83%D8%A7%D8%B4%D8%A9%20%D9%83%D9%85%D9%8A%D9%86%D9%8A.jpg"
     },
     {
       "id": 273,
@@ -20260,7 +20260,7 @@
           "audioUrlTemplate": "https://server16.mp3quran.net/f_khamery/Rewayat-Hafs-A-n-Assem/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/281.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%81%D8%A4%D8%A7%D8%AF%20%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B1%D9%8A.jpg"
     },
     {
       "id": 282,
@@ -20930,7 +20930,7 @@
           "audioUrlTemplate": "https://server16.mp3quran.net/h_saleh/Rewayat-Hafs-A-n-Assem/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/286.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%AD%D8%B3%D9%86%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B5%D8%A7%D9%84%D8%AD.jpg"
     },
     {
       "id": 287,
@@ -21637,7 +21637,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/3siri/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/3.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D8%A7%D9%84%D8%B9%D8%B3%D9%8A%D8%B1%D9%8A.jpg"
     },
     {
       "id": 30,
@@ -21771,7 +21771,7 @@
           "audioUrlTemplate": "https://server7.mp3quran.net/s_gmd/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/30.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B3%D8%B9%D8%AF%20%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A.jpg"
     },
     {
       "id": 300,
@@ -22467,7 +22467,7 @@
           "audioUrlTemplate": "https://server16.mp3quran.net/H-Lharraz/Rewayat-Warsh-A-n-Nafi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/305.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%87%D8%B4%D8%A7%D9%85%20%D8%A7%D9%84%D9%87%D8%B1%D8%A7%D8%B2.jpg"
     },
     {
       "id": 306,
@@ -22667,7 +22667,7 @@
           "audioUrlTemplate": "https://server7.mp3quran.net/shur/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/31.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B3%D8%B9%D9%88%D8%AF%20%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%85.jpg"
     },
     {
       "id": 32,
@@ -22801,7 +22801,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/shl/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/32.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B3%D9%87%D9%84%20%D9%8A%D8%A7%D8%B3%D9%8A%D9%86.jpg"
     },
     {
       "id": 33,
@@ -22935,7 +22935,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/zaki/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/33.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B2%D9%83%D9%8A%20%D8%AF%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86%D9%8A.jpg"
     },
     {
       "id": 34,
@@ -22983,7 +22983,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/sami_hsn/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/34.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B3%D8%A7%D9%85%D9%8A%20%D8%A7%D9%84%D8%AD%D8%B3%D9%86.jpg"
     },
     {
       "id": 35,
@@ -23056,7 +23056,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/sami_dosr/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/35.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B3%D8%A7%D9%85%D9%8A%20%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A.jpg"
     },
     {
       "id": 36,
@@ -23190,7 +23190,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/sayed/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/36.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B3%D9%8A%D8%AF%20%D8%B1%D9%85%D8%B6%D8%A7%D9%86.jpg"
     },
     {
       "id": 37,
@@ -23275,7 +23275,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/shaban/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/37.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B4%D8%B9%D8%A8%D8%A7%D9%86%20%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D8%AF.jpg"
     },
     {
       "id": 38,
@@ -23543,7 +23543,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/hkm/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/39.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B5%D8%A7%D8%A8%D8%B1%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%AD%D9%83%D9%85.jpg"
     },
     {
       "id": 4,
@@ -23677,7 +23677,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/shatri/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://i.pinimg.com/280x280_RS/e0/fa/7e/e0fa7e0b10e68d70d628a257acce0e8a.jpg"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B4%D9%8A%D8%AE%20%D8%A3%D8%A8%D9%88%20%D8%A8%D9%83%D8%B1%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B7%D8%B1%D9%8A.jpg"
     },
     {
       "id": 40,
@@ -23811,7 +23811,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/sahood/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/40.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B5%D8%A7%D9%84%D8%AD%20%D8%A8%D9%86%20%D8%B3%D8%A7%D9%84%D9%85%20%D8%A7%D9%84%D8%B5%D8%A7%D9%87%D9%88%D8%AF.jpg"
     },
     {
       "id": 41,
@@ -23864,7 +23864,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/tlb/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/41.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B5%D8%A7%D9%84%D8%AD%20%D8%A2%D9%84%20%D8%B7%D8%A7%D9%84%D8%A8.jpg"
     },
     {
       "id": 42,
@@ -23998,7 +23998,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/habdan/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/42.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B5%D8%A7%D9%84%D8%AD%20%D8%A7%D9%84%D9%87%D8%A8%D8%AF%D8%A7%D9%86.jpg"
     },
     {
       "id": 43,
@@ -24132,7 +24132,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/s_bud/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/43.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B5%D9%84%D8%A7%D8%AD%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B1.jpg"
     },
     {
       "id": 44,
@@ -24284,7 +24284,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/salah_hashim_m/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/44.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B5%D9%84%D8%A7%D8%AD%20%D8%A7%D9%84%D9%87%D8%A7%D8%B4%D9%85.jpg"
     },
     {
       "id": 46,
@@ -24418,7 +24418,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/bu_khtr/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/46.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B5%D9%84%D8%A7%D8%AD%20%D8%A8%D9%88%20%D8%AE%D8%A7%D8%B7%D8%B1.jpg"
     },
     {
       "id": 47,
@@ -24686,7 +24686,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/ryan/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/48.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A7%D8%AF%D9%84%20%D8%B1%D9%8A%D8%A7%D9%86.jpg"
     },
     {
       "id": 49,
@@ -24820,7 +24820,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/thubti/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/49.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%A6%20%D8%A7%D9%84%D8%AB%D8%A8%D9%8A%D8%AA%D9%8A.jpg"
     },
     {
       "id": 5,
@@ -24954,7 +24954,7 @@
           "audioUrlTemplate": "https://server10.mp3quran.net/ajm/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/5.png"
+      "logoUrl": "https://ar.assabile.com/media/person/280x219/ahmed-al-ajmi.png"
     },
     {
       "id": 50,
@@ -25190,7 +25190,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/bari/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/50.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%A6%20%D9%85%D8%AD%D9%85%D8%AF.jpg"
     },
     {
       "id": 51,
@@ -25574,7 +25574,7 @@
           "audioUrlTemplate": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/51.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B5%D9%85%D8%AF.jpg"
     },
     {
       "id": 54,
@@ -25708,7 +25708,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/sds/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/54.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D8%AF%D9%8A%D8%B3.jpg"
     },
     {
       "id": 55,
@@ -25842,7 +25842,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/a_ahmed/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/55.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2%20%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF.jpg"
     },
     {
       "id": 56,
@@ -25976,7 +25976,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/zahrani/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/56.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2%20%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D9%86%D9%8A.jpg"
     },
     {
       "id": 57,
@@ -26065,7 +26065,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/brmi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/57.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D9%85%D9%8A.jpg"
     },
     {
       "id": 58,
@@ -26199,7 +26199,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/buajan/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/58.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%A8%D8%B9%D9%8A%D8%AC%D8%A7%D9%86.jpg"
     },
     {
       "id": 59,
@@ -26333,7 +26333,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/mtrod/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/59.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D9%85%D8%B7%D8%B1%D9%88%D8%AF.jpg"
     },
     {
       "id": 6,
@@ -26467,7 +26467,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/hawashi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/6.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B4%D9%8A.jpg"
     },
     {
       "id": 60,
@@ -26601,7 +26601,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/bsfr/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/60.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A8%D8%B5%D9%81%D8%B1.jpg"
     },
     {
       "id": 61,
@@ -26735,7 +26735,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/kyat/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/61.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%AE%D9%8A%D8%A7%D8%B7.jpg"
     },
     {
       "id": 62,
@@ -26869,7 +26869,7 @@
           "audioUrlTemplate": "https://server13.mp3quran.net/jhn/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/62.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%AC%D9%87%D9%86%D9%8A(1).jpg"
     },
     {
       "id": 63,
@@ -27003,7 +27003,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/gulan/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/63.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86.jpg"
     },
     {
       "id": 64,
@@ -27387,7 +27387,7 @@
           "audioUrlTemplate": "https://server16.mp3quran.net/soufi/Rewayat-Khalaf-A-n-Hamzah/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/64.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B1%D8%B4%D9%8A%D8%AF%20%D8%A8%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%B5%D9%88%D9%81%D9%8A.jpg"
     },
     {
       "id": 66,
@@ -27521,7 +27521,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/mohsin_harthi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/66.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB%D9%8A.jpg"
     },
     {
       "id": 67,
@@ -27655,7 +27655,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/qasm/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/67.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85.jpg"
     },
     {
       "id": 68,
@@ -27679,7 +27679,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/askr/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/68.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1.jpg"
     },
     {
       "id": 69,
@@ -27813,7 +27813,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/obk/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/69.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D8%B9%D8%A8%D9%8A%D9%83%D8%A7%D9%86.jpg"
     },
     {
       "id": 7,
@@ -27863,7 +27863,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/saud/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/7.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 70,
@@ -28265,7 +28265,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/arkani/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/72.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%88%D9%84%D9%8A%20%D8%A7%D9%84%D8%A3%D8%B1%D9%83%D8%A7%D9%86%D9%8A.jpeg"
     },
     {
       "id": 73,
@@ -28299,7 +28299,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/abo_hashim/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/73.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D9%84%D9%8A%20%D8%A3%D8%A8%D9%88%20%D9%87%D8%A7%D8%B4%D9%85.jpg"
     },
     {
       "id": 74,
@@ -28817,7 +28817,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/a_jbr/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/76.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D9%84%D9%8A%20%D8%AC%D8%A7%D8%A8%D8%B1.jpg"
     },
     {
       "id": 77,
@@ -28951,7 +28951,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/hajjaj/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/77.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D9%84%D9%8A%20%D8%AD%D8%AC%D8%A7%D8%AC%20%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3%D9%8A.jpg"
     },
     {
       "id": 78,
@@ -29085,7 +29085,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/hafz/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/78.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D9%85%D8%A7%D8%AF%20%D8%B2%D9%87%D9%8A%D8%B1%20%D8%AD%D8%A7%D9%81%D8%B8.jpg"
     },
     {
       "id": 79,
@@ -29353,7 +29353,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/saber/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/8.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%B5%D8%A7%D8%A8%D8%B1.jpg"
     },
     {
       "id": 80,
@@ -29487,7 +29487,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/omar_warsh/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/80.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%B9%D9%85%D8%B1%20%D8%A7%D9%84%D9%82%D8%B2%D8%A7%D8%A8%D8%B1%D9%8A.jpg"
     },
     {
       "id": 81,
@@ -29621,7 +29621,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/frs_a/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/81.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%81%D8%A7%D8%B1%D8%B3%20%D8%B9%D8%A8%D8%A7%D8%AF.jpg"
     },
     {
       "id": 82,
@@ -29649,7 +29649,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/fahad_otibi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/82.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/author_default.png"
     },
     {
       "id": 83,
@@ -29746,7 +29746,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/kndri/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/83.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%81%D9%87%D8%AF%20%D8%A7%D9%84%D9%83%D9%86%D8%AF%D8%B1%D9%8A.jpeg"
     },
     {
       "id": 84,
@@ -29815,7 +29815,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/fawaz/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/84.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%81%D9%88%D8%A7%D8%B2%20%D8%A7%D9%84%D9%83%D8%B9%D8%A8%D9%8A.jpg"
     },
     {
       "id": 85,
@@ -29919,7 +29919,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/lafi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/85.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%84%D8%A7%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%88%D9%86%D9%8A.png"
     },
     {
       "id": 86,
@@ -30053,7 +30053,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/qtm/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/86.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%86%D8%A7%D8%B5%D8%B1%20%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D9%85%D9%8A.jpg"
     },
     {
       "id": 87,
@@ -30187,7 +30187,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/nabil/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/87.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%86%D8%A8%D9%8A%D9%84%20%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A.jpg"
     },
     {
       "id": 88,
@@ -30455,7 +30455,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/hani/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/89.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%87%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A.jpg"
     },
     {
       "id": 9,
@@ -30589,7 +30589,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/ahmad_nu/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/9.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D9%86%D8%B9%D9%8A%D9%86%D8%B9.jpg"
     },
     {
       "id": 90,
@@ -30667,7 +30667,7 @@
           "audioUrlTemplate": "https://server8.mp3quran.net/dlami/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/90.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%88%D9%84%D9%8A%D8%AF%20%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%85%D9%8A.jpg"
     },
     {
       "id": 91,
@@ -30801,7 +30801,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/waleed/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/91.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%88%D9%84%D9%8A%D8%AF%20%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%AD%D9%8A.jpg"
     },
     {
       "id": 92,
@@ -30935,7 +30935,7 @@
           "audioUrlTemplate": "https://server11.mp3quran.net/yasser/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/92.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%8A%D8%A7%D8%B3%D8%B1%20%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A.jpg"
     },
     {
       "id": 93,
@@ -31069,7 +31069,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/qurashi/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/93.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%8A%D8%A7%D8%B3%D8%B1%20%D8%A7%D9%84%D9%82%D8%B1%D8%B4%D9%8A.jpg"
     },
     {
       "id": 94,
@@ -31177,7 +31177,7 @@
           "audioUrlTemplate": "https://server6.mp3quran.net/fyl/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/94.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%8A%D8%A7%D8%B3%D8%B1%20%D8%A7%D9%84%D9%81%D9%8A%D9%84%D9%83%D8%A7%D9%88%D9%8A.jpg"
     },
     {
       "id": 95,
@@ -31311,7 +31311,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/mzroyee/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/95.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%8A%D8%A7%D8%B3%D8%B1%20%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D9%8A.jpg"
     },
     {
       "id": 96,
@@ -31445,7 +31445,7 @@
           "audioUrlTemplate": "https://server12.mp3quran.net/yahya/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/96.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%8A%D8%AD%D9%8A%D9%89%20%D8%AD%D9%88%D8%A7.jpg"
     },
     {
       "id": 97,
@@ -31579,7 +31579,7 @@
           "audioUrlTemplate": "https://server9.mp3quran.net/yousef/{surah:03}.mp3"
         }
       ],
-      "logoUrl": "https://YOUR_DOMAIN_OR_CDN/reciters/97.png"
+      "logoUrl": "https://tvquran.com/uploads/authors/images/%D9%8A%D9%88%D8%B3%D9%81%20%D8%A7%D9%84%D8%B4%D9%88%D9%8A%D8%B9%D9%8A.jpg"
     },
     {
       "id": 98,
