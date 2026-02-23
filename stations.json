@@ -1,13 +1,13 @@
 [
     {
         "name": "Chada FM",
-        "streamUrl": "https://stream.bodkas.com/playlist?id=chadafmradio",
+        "streamUrl": "https://stream.bodkas.com/chadafmradio_chunk_2672455.ts",
         "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/301/chada-fm-shd-fm.88b31124.png",
         "genre": "General"
     },
     {
         "name": "Medi 1",
-        "streamUrl": "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8",
+        "streamUrl": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/corp/83_medi1tv-maghreb_jnbspmg_240p/chunks_dvr.m3u8",
         "logoUrl": "https://cdn-profiles.tunein.com/s24883/images/logod.jpg",
         "genre": "News"
     },
@@ -135,6 +135,12 @@
         "name": "Radio Atbir",
         "streamUrl": "https://stream.zeno.fm/bqdbb6hd0neuv",
         "logoUrl": "https://media.tunedradios.com/w_600,h_600,q_40/static/radio/2463/logo/d44dbd71fc9a305101636750910072cf.webp",
+        "genre": "Music"
+    },
+     {
+        "name": "Musique Beldi",
+        "streamUrl": "https://beldifm.hf.ma/radio/8000/radio.mp3",
+        "logoUrl": "https://yt3.googleusercontent.com/nTYN0h8sFa9LmlKFz3-rPc8xKKn3kqHGabk2Wo4rtOv6KrYhmlYZ5TeivyHtTMAk8LKNCAkR3bI=s900-c-k-c0x00ffffff-no-rj",
         "genre": "Music"
     },
     {
@@ -439,7 +445,7 @@
     },
     {
         "name": "Radio 426",
-        "streamUrl": "https://play.radioking.io/radio-bodega-sport",
+        "streamUrl": "https://stream-152.zeno.fm/emqjxlmcq1avv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlbXFqeGxtY3ExYXZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Iks1VFVweTRnUkkta3BwNVpwOExLV0EiLCJpYXQiOjE3NzE4NzM1NDksImV4cCI6MTc3MTg3MzYwOX0.kIm1UyQ0o9DfRiecLZ2V-3OmjXiICStmKHhu5e7DZSI",
         "logoUrl": "https://media.tunedradios.com/w_600,h_600,q_40/static/radio/12374/logo/d5d3c315bd986a516f842113e0f0320c.webp",
         "genre": "General"
     },
