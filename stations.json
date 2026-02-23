@@ -220,7 +220,7 @@
         "name": "Fayroz",
         "streamUrl": "https://stream-154.zeno.fm/zv3e5wykprhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6djNlNXd5a3ByaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhaRzVYYVNTVHBpbzNZbk5ZWGVKLVEiLCJpYXQiOjE3NzE4NzU0ODMsImV4cCI6MTc3MTg3NTU0M30.skC4qPkVNKUr0SwjKacDTYqiwpaFyI2qjfjz7fOG2wE",
         "logoUrl": "https://i1.sndcdn.com/artworks-000046438853-eei8fl-t500x500.jpg",
-        "genre": "General"
+        "genre": "Music"
     },
     {
         "name": "Oxygene FM",
@@ -268,7 +268,7 @@
         "name": "Radio Sawte Ouarzazate",
         "streamUrl": "http://www.quran-radio.org:8002/stream",
         "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/UY5AVNAAAR.jpg",
-        "genre": "General"
+        "genre": "Religious"
     },
     {
         "name": "Skyrock Casablanca",
@@ -334,7 +334,7 @@
         "name": "Love Maroc",
         "streamUrl": "https://az01.tsnet.org/listen/love_maroc/radio.mp3",
         "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/rW3P8fD9kv.png",
-        "genre": "General"
+        "genre": "Music"
     },
     {
         "name": "Canal Fiesta Radio",
@@ -358,7 +358,7 @@
         "name": "Chillout Vibes",
         "streamUrl": "https://chillout.streeemer.com/listen/chillout/radio.mp3",
         "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/004/chillout-vibes.c101d07e.png",
-        "genre": "General"
+        "genre": "Music"
     },
     {
         "name": "Radio Classique",
