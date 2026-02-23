@@ -7,7 +7,7 @@
     },
     {
         "name": "Medi 1",
-        "streamUrl": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/corp/83_medi1tv-maghreb_jnbspmg_240p/chunks_dvr.m3u8",
+        "streamUrl": "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8?n=7bc74f3e3e1fa19dc1ba",
         "logoUrl": "https://cdn-profiles.tunein.com/s24883/images/logod.jpg",
         "genre": "News"
     },
@@ -215,6 +215,12 @@
         "logoUrl": "https://radioenlignefrance.com/storage/radios/18897/75170/conversions/aH2yI6hYz0Bvxtzk2OW5D38rTb4MeB-metacnBtLnBuZw%3D%3D--lg.webp",
         "genre": "General"
     },
+      {
+        "name": "Fayroz",
+        "streamUrl": "https://stream-154.zeno.fm/zv3e5wykprhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6djNlNXd5a3ByaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhaRzVYYVNTVHBpbzNZbk5ZWGVKLVEiLCJpYXQiOjE3NzE4NzU0ODMsImV4cCI6MTc3MTg3NTU0M30.skC4qPkVNKUr0SwjKacDTYqiwpaFyI2qjfjz7fOG2wE",
+        "logoUrl": "https://i1.sndcdn.com/artworks-000046438853-eei8fl-t500x500.jpg",
+        "genre": "General"
+    },
     {
         "name": "Oxygene FM",
         "streamUrl": "http://oxygene.ice.infomaniak.ch/oxygene-128.mp3",
@@ -226,6 +232,12 @@
         "streamUrl": "http://manarat.ice.infomaniak.ch/manarat-128.mp3",
         "logoUrl": "https://cdn.instant.audio/images/logos/radio-co-ma/manarat.png",
         "genre": "Religious"
+    },
+     {
+        "name": "Ma vie Que j'adore",
+        "streamUrl": "https://listen.radioking.com/radio/706877/stream/772337?n=92decab76caca5edc1c1",
+        "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/058/ma-vie-que-jadore.c6da3828.jpg",
+        "genre": "Music"
     },
     {
         "name": "Hits1 Maroc",
@@ -493,8 +505,8 @@
     },
     {
         "name": "NRJ Oriental",
-        "streamUrl": "https://radiome.fr/api/stream/1818",
-        "logoUrl": "https://d371i8ihhgym7w.cloudfront.net/102902102.jpg",
+        "streamUrl": "https://listen.radioking.com/radio/597841/stream/658903?n=281e303290c2268b451e",
+        "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/999/nrj-maroc.7198c33b.png",
         "genre": "Music"
     },
     {
