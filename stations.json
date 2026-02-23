@@ -7,7 +7,7 @@
     },
     {
         "name": "Medi 1",
-        "streamUrl": "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8?n=7bc74f3e3e1fa19dc1ba",
+        "streamUrl": "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/chunks.m3u8",
         "logoUrl": "https://cdn-profiles.tunein.com/s24883/images/logod.jpg",
         "genre": "News"
     },
