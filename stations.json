@@ -91,7 +91,7 @@
     },
     {
         "name": "Hit Radio Party",
-        "streamUrl": "http://party.ice.infomaniak.ch/party-128.mp3",
+        "streamUrl": "https://dancefloor.ice.infomaniak.ch/dancefloor-128.mp3",
         "logoUrl": "https://hittradio.com/uploads/webradio/100__PARTY.jpg",
         "genre": "Music"
     },
@@ -157,7 +157,7 @@
     },
     {
         "name": "Hit Radio TikTok",
-        "streamUrl": "http://buzz.ice.infomaniak.ch/buzz-128.mp3",
+        "streamUrl": "https://buzz.ice.infomaniak.ch/buzz-128.mp3",
         "logoUrl": "https://hittradio.com/uploads/webradio/100__TIKTOK.jpg",
         "genre": "Music"
     },
@@ -181,8 +181,14 @@
     },
     {
         "name": "Hit Radio Urban",
-        "streamUrl": "http://urban.ice.infomaniak.ch/urban-128.mp3",
+        "streamUrl": "https://rnb.ice.infomaniak.ch/rnb-128.mp3",
         "logoUrl": "https://hittradio.com/uploads/webradio/100__URBAN.jpg",
+        "genre": "Music"
+    },
+      {
+        "name": "Hit Radio MARRUECOS ESPAÑA",
+        "streamUrl": "https://marruecosespana.ice.infomaniak.ch/marruecosespana-128.mp3",
+        "logoUrl": "https://hittradio.com/uploads/webradio/100--Marruecos-Espa%C3%B1a.jpeg",
         "genre": "Music"
     },
     {
