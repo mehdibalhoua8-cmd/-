@@ -79,7 +79,7 @@
     },
     {
         "name": "Hit Radio Mgharba",
-        "streamUrl": "http://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+        "streamUrl": "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
         "logoUrl": "https://hittradio.com/uploads/webradio/100__MGHARBA.jpg",
         "genre": "Music"
     },
