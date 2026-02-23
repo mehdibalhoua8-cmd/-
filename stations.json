@@ -56,7 +56,7 @@
     },
       {
         "name": "Chada FM",
-        "streamUrl": "https://stream.bodkas.com/chadafmradio_chunk_2672455.ts",
+        "streamUrl": "https://stream.bodkas.com/playlist?id=chadafmradio",
         "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/301/chada-fm-shd-fm.88b31124.png",
         "genre": "General"
     },
