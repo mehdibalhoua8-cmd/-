@@ -217,7 +217,7 @@
    },
    {
       "name":"Oxygene FM",
-      "streamUrl":"http://oxygene.ice.infomaniak.ch/oxygene-128.mp3",
+      "streamUrl":"http://stream.radios-arra.fr:8000/oxygenefm",
       "logoUrl":"https://cdn.instant.audio/images/logos/radio-co-ma/oxygene.png",
       "genre":"General"
    },
@@ -585,6 +585,12 @@
       "name":"Medina Tarab",
       "streamUrl":"http://medinatarab.ice.infomaniak.ch/medinatarab-128.mp3",
       "logoUrl":"https://medinafm.ma/wp-content/uploads/2020/10/TARAB.png",
+      "genre":"Music"
+   },
+    {
+      "name":"Beur FM",
+      "streamUrl":"https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+      "logoUrl":"https://static.mytuner.mobi/media/tvos_radios/403/beur-fm.ee7e03fc.png",
       "genre":"Music"
    },
    {
