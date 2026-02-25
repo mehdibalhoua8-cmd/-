@@ -1,6 +1,6 @@
 {
    "meta":{
-      "logoBaseUrl":"",
+      "logoBaseUrl":"https://pbs.twimg.com/profile_images/684530097546596353/9CV5gv_8_400x400.jpg",
       "audioFilePattern":"{server}{surah:03}.mp3"
    },
    "reciters":[
@@ -31717,3 +31717,4 @@
       }
    ]
 }
+
