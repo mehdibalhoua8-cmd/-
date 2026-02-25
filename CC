@@ -1,0 +1,8 @@
+{
+  "minVersionCode": 12,
+  "latestVersionCode": 15,
+  "force": true,
+  "message_ar": "يتطلب هذا الإصدار تحديثًا إلزاميًا لمتابعة استخدام التطبيق.",
+  "message_fr": "Une mise à jour obligatoire est requise pour continuer.",
+  "storeUrl": "https://play.google.com/store/apps/details?id=com.dragos.radiomarocrn"
+}
