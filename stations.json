@@ -1,7 +1,7 @@
 [
    {
       "name":"Medi 1 ",
-      "streamUrl":"https://live.medi1.com/medi1;",
+      "streamUrl":"https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8",
       "logoUrl":"https://cdn-profiles.tunein.com/s24883/images/logod.jpg",
       "genre":"News"
    },
@@ -61,7 +61,7 @@
    },
    {
       "name":"Chada FM",
-      "streamUrl": "https://stream.bodkas.com/playlist?id=chadafmradio;",
+      "streamUrl": "https://edge16.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
       "logoUrl":"https://static.mytuner.mobi/media/tvos_radios/301/chada-fm-shd-fm.88b31124.png",
       "genre":"General"
    },
@@ -322,6 +322,18 @@
       "streamUrl":"https://streaming.rimradio.ma/live",
       "logoUrl":"https://static.mytuner.mobi/media/tvos_radios/pfzqx5wcbc7y.png",
       "genre":"General"
+   },
+    {
+      "name":"Radio Nador",
+      "streamUrl":"https://stream.zeno.fm/cfuk22ssv4zuv",
+      "logoUrl":"https://cdn.onlineradiobox.com/img/fblogo/5/76735.v4.png",
+      "genre":"News"
+   },
+   {
+      "name":"Radio Habayiib",
+      "streamUrl":"http://85.214.110.29:8000/;",
+      "logoUrl":"https://cdn.onlineradiobox.com/img/l/5/20995.v5.png",
+      "genre":"News"
    },
    {
       "name":"Radio Jar",
