@@ -1,7 +1,7 @@
 [
    {
       "name":"Medi 1 ",
-      "streamUrl":"https://live.medi1.com/medi1",
+      "streamUrl":"https://live.medi1.com/medi1;",
       "logoUrl":"https://cdn-profiles.tunein.com/s24883/images/logod.jpg",
       "genre":"News"
    },
@@ -35,6 +35,12 @@
       "logoUrl":"https://static.mytuner.mobi/media/tvos_radios/099/mfm-radio-mfm-rdyw.9fbb148a.png",
       "genre":"General"
    },
+    {
+      "name":"Radio Quran Maroc",
+      "streamUrl":"https://tune.tunzilla.com/http://virmach1.hajjam.net:8005/;",
+      "logoUrl":"https://cdn.radoxo.com/images/morocco/quran-coran-station.png",
+      "genre":"Religious"
+   },
    {
       "name":"Monte Carlo Doualiya",
       "streamUrl":"https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
@@ -55,7 +61,7 @@
    },
    {
       "name":"Chada FM",
-      "streamUrl": "https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/chunklist_w1444109435.m3u8",
+      "streamUrl": "https://stream.bodkas.com/playlist?id=chadafmradio;",
       "logoUrl":"https://static.mytuner.mobi/media/tvos_radios/301/chada-fm-shd-fm.88b31124.png",
       "genre":"General"
    },
@@ -88,6 +94,12 @@
       "streamUrl":"http://nessradio.ice.infomaniak.ch/nessradio-128.mp3",
       "logoUrl":"https://cdn.instant.audio/images/logos/radio-co-ma/ness.png",
       "genre":"Music"
+   },
+    {
+      "name":"Radio France Maghreb",
+      "streamUrl":"https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+      "logoUrl":"https://cdn.radoxo.com/images/morocco/radio-france-maghreb-2.jpg",
+      "genre":"News"
    },
    {
       "name":"Hit Radio Party",
@@ -122,7 +134,7 @@
    {
       "name":"Radio Yabiladi",
       "streamUrl":"https://radio.yabiladi.com:8002/;",
-      "logoUrl":"https://static.mytuner.mobi/media/tvos_radios/GBtR3HTfW8.png",
+      "logoUrl":"https://cdn.radoxo.com/images/morocco/radio-yabiladi.png",
       "genre":"General"
    },
    {
@@ -223,9 +235,15 @@
    },
    {
       "name":"Radio Manarat",
-      "streamUrl":"http://manarat.ice.infomaniak.ch/manarat-128.mp3",
-      "logoUrl":"https://cdn.instant.audio/images/logos/radio-co-ma/manarat.png",
+      "streamUrl":"https://listen.radioking.com/radio/252934/stream/297379",
+      "logoUrl":"https://cdn.radoxo.com/images/morocco/radio-manarat.png",
       "genre":"Religious"
+   },
+   {
+      "name":"Radio Marrakech",
+      "streamUrl":" https://play.radioking.io/radio-marrakech2/718762",
+      "logoUrl":"https://cdn.radoxo.com/images/morocco/radio-marrakech.jpg",
+      "genre":"News"
    },
    {
       "name":"Ma vie Que j'adore",
