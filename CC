@@ -1,6 +1,6 @@
 {
-  "minVersionCode": 3,
-  "latestVersionCode": 3,
+  "minVersionCode": 4,
+  "latestVersionCode": 4,
   "force": true,
   "message_ar": "يتطلب هذا الإصدار تحديثًا إلزاميًا لمتابعة استخدام التطبيق.",
   "message_fr": "Une mise à jour obligatoire est requise pour continuer.",
