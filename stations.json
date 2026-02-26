@@ -101,6 +101,12 @@
       "logoUrl":"https://cdn.radoxo.com/images/morocco/radio-france-maghreb-2.jpg",
       "genre":"News"
    },
+     {
+      "name":"Radio RMN",
+      "streamUrl":"https://stream.zeno.fm/nefhp3q9fc9uv",
+      "logoUrl":"https://radoxo.com/images/morocco/rmn-radio-maroc-news.png",
+      "genre":"News"
+   },
    {
       "name":"Hit Radio Party",
       "streamUrl":"https://dancefloor.ice.infomaniak.ch/dancefloor-128.mp3",
@@ -135,6 +141,12 @@
       "name":"Radio Yabiladi",
       "streamUrl":"https://radio.yabiladi.com:8002/;",
       "logoUrl":"https://cdn.radoxo.com/images/morocco/radio-yabiladi.png",
+      "genre":"General"
+   },
+   {
+      "name":"Radio MCG24",
+      "streamUrl":"https://listen.radioking.com/radio/819606/stream/888581",
+      "logoUrl":"https://yt3.googleusercontent.com/5W1Dvlm7erLYEreg07WbPA4jv-anAXq-ElDuOHErhoij8tFxFSW6M_b_gqxI55P5kX1bvr6P=s900-c-k-c0x00ffffff-no-rj",
       "genre":"General"
    },
    {
