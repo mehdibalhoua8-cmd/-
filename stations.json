@@ -1,7 +1,7 @@
 [
    {
       "name":"Medi 1 ",
-      "streamUrl":"http://live.medi1.com/medi1?.mp3",
+      "streamUrl":"https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/chunks.m3u8",
       "logoUrl":"https://cdn-profiles.tunein.com/s24883/images/logod.jpg",
       "genre":"News"
    },
@@ -61,7 +61,7 @@
    },
    {
       "name":"Chada FM",
-      "streamUrl": "https://edge16.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
+      "streamUrl": "https://stream.bodkas.com/playlist?id=chadafmradio",
       "logoUrl":"https://static.mytuner.mobi/media/tvos_radios/301/chada-fm-shd-fm.88b31124.png",
       "genre":"General"
    },
@@ -157,7 +157,7 @@
    },
    {
       "name":"Musique Beldi",
-      "streamUrl":"https://beldifm.hf.ma/radio/8000/radio.mp3",
+      "streamUrl":"https://beldifm.hf.ma/radio/8000/128.mp3",
       "logoUrl":"https://yt3.googleusercontent.com/nTYN0h8sFa9LmlKFz3-rPc8xKKn3kqHGabk2Wo4rtOv6KrYhmlYZ5TeivyHtTMAk8LKNCAkR3bI=s900-c-k-c0x00ffffff-no-rj",
       "genre":"Music"
    },
