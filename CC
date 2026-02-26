@@ -1,5 +1,5 @@
 {
-  "minVersionCode": 2,
+  "minVersionCode": 3,
   "latestVersionCode": 3,
   "force": true,
   "message_ar": "يتطلب هذا الإصدار تحديثًا إلزاميًا لمتابعة استخدام التطبيق.",
