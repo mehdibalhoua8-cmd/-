@@ -23,12 +23,7 @@
     "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/662/cap-radio-kb-rdyw.413c2b73.png",
     "genre": "General"
   },
-  {
-    "name": "Chada FM",
-    "streamUrl": "https://stream.bodkas.com/playlist?id=chadafmradio",
-    "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/301/chada-fm-shd-fm.88b31124.png",
-    "genre": "General"
-  },
+  
   {
     "name": "La Confiserie Sonore",
     "streamUrl": "https://listen.radioking.com/radio/115108/stream/154390",
@@ -173,12 +168,7 @@
     "logoUrl": "https://cdn.radoxo.com/images/morocco/radio-yabiladi.png",
     "genre": "General"
   },
-  {
-    "name": "Radio YOUM",
-    "streamUrl": "https://stream.zeno.fm/lavfbajdjbjtv",
-    "logoUrl": "https://proxy.zeno.fm/content/stations/21b4ca52-4163-4e28-bff3-f2a5d7188216/image/?u=1759255317000",
-    "genre": "General"
-  },
+ 
   {
     "name": "RFI Monde",
     "streamUrl": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
@@ -189,6 +179,12 @@
     "name": "RIM Radio",
     "streamUrl": "https://streaming.rimradio.ma/live",
     "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/pfzqx5wcbc7y.png",
+    "genre": "General"
+  },
+  {
+    "name": "Chada FM",
+    "streamUrl": "https://stream.bodkas.com/playlist?id=chadafmradio",
+    "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/301/chada-fm-shd-fm.88b31124.png",
     "genre": "General"
   },
   {
@@ -245,12 +241,7 @@
     "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/004/chillout-vibes.c101d07e.png",
     "genre": "Music"
   },
-  {
-    "name": "Fayroz",
-    "streamUrl": "https://stream-154.zeno.fm/zv3e5wykprhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6djNlNXd5a3ByaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhaRzVYYVNTVHBpbzNZbk5ZWGVKLVEiLCJpYXQiOjE3NzE4NzU0ODMsImV4cCI6MTc3MTg3NTU0M30.skC4qPkVNKUr0SwjKacDTYqiwpaFyI2qjfjz7fOG2wE",
-    "logoUrl": "https://i1.sndcdn.com/artworks-000046438853-eei8fl-t500x500.jpg",
-    "genre": "Music"
-  },
+  
   {
     "name": "Fun Kids Junior",
     "streamUrl": "https://listen-funkids.sharp-stream.com/funkidsjunior.aac?platform=3p_agg_02",
@@ -423,6 +414,18 @@
     "name": "Radio Azawan",
     "streamUrl": "https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3",
     "logoUrl": "https://static2.mytuner.mobi/media/tvos_radios/g5ttgwjgxjh6.png",
+    "genre": "Music"
+  },
+   {
+    "name": "Radio YOUM",
+    "streamUrl": "https://stream.zeno.fm/lavfbajdjbjtv",
+    "logoUrl": "https://proxy.zeno.fm/content/stations/21b4ca52-4163-4e28-bff3-f2a5d7188216/image/?u=1759255317000",
+    "genre": "Music"
+  },
+  {
+    "name": "Fayroz",
+    "streamUrl": "https://stream-154.zeno.fm/zv3e5wykprhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6djNlNXd5a3ByaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhaRzVYYVNTVHBpbzNZbk5ZWGVKLVEiLCJpYXQiOjE3NzE4NzU0ODMsImV4cCI6MTc3MTg3NTU0M30.skC4qPkVNKUr0SwjKacDTYqiwpaFyI2qjfjz7fOG2wE",
+    "logoUrl": "https://i1.sndcdn.com/artworks-000046438853-eei8fl-t500x500.jpg",
     "genre": "Music"
   },
   {
