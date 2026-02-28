@@ -167,6 +167,12 @@
     "logoUrl": "https://cdn.instant.audio/images/logos/radio-co-ma/star-maroc.png",
     "genre": "Music"
   },
+   {
+    "name": "Radio Tarab",
+    "streamUrl": "https://stream-157.zeno.fm/fy8achbq97zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmeThhY2hicTk3enV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImZKeHBZUDBXUmttMnJ0Y0pGZ3UtUWciLCJpYXQiOjE3NzIyODkwOTUsImV4cCI6MTc3MjI4OTE1NX0.dFxew32TCksCanZRJeA4R--N6VGzv1kziXYqEp9BJes",
+    "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/AsGvLhE3Tt.png",
+    "genre": "Music"
+  },
   {
     "name": "Cap Radio",
     "streamUrl": "https://listen.radioking.com/radio/710810/stream/776360",
